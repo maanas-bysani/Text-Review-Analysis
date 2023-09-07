@@ -1,2 +1,4 @@
 # BA_Forage
-Web scraping reviews for NLP to gain insights about products and services offered. Analysing over 50k sales records to identify customer buying patterns and behaviours using ML.
+Web scraped over 3000 numerical and text reviews and used NLP Techniques like Sentiment Analysis to gain insight and identify areas to improve. 
+
+Analysed over 50k reviews and 13 factors to identify and quantify their influence on customer buying behaviour using mutual information scores and clustering algorithms such as Random Forest and XGBoost.
